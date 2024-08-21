@@ -28,4 +28,4 @@ The data used in this project is sourced from the City of Toronto’s Open Data 
 
 For a more detailed explanation and insights, you can read our full article on Medium:
 
-[Predicting bike availability at bike share stations in Toronto]([https://medium.com/your-article-link](https://medium.com/ai4sm/predicting-bike-availability-at-bike-share-stations-in-toronto-preliminary-analysis-cea5d849d631)
+[Predicting bike availability at bike share stations in Toronto](https://medium.com/ai4sm/predicting-bike-availability-at-bike-share-stations-in-toronto-preliminary-analysis-cea5d849d631)
